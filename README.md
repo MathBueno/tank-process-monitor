@@ -12,3 +12,7 @@ Background in mechanical engineering, applying system monitoring logic to simula
 
 ## Tech
 - Python
+## How to run
+Run the script using:
+
+python main.py
