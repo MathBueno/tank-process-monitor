@@ -8,7 +8,7 @@ This project simulates an industrial tank system with pressure and temperature m
 - Prints alerts
 
 ## Why I built this
-Background in mechanical engineering, applying system monitoring logic to simulate real-world scenarios.
+With a background in mechanical engineering, I wanted to simulate a simple monitoring system similar to real industrial processes.
 
 ## Tech
 - Python
